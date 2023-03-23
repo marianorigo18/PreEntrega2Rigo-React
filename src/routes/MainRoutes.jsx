@@ -1,7 +1,7 @@
 import React from 'react'
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
 import { Navbar } from '../components'
-import { Home, Otro } from '../pages'
+import { Home, Iluminacion, Industria, AboutUs, Contact } from '../pages'
 
 export const MainRoutes = () => {
   return (
@@ -9,7 +9,10 @@ export const MainRoutes = () => {
         <Navbar></Navbar>
         <Routes>
             <Route exact path="/home" element={<Home/>}></Route>
-            <Route exact path="/otro" element={<Otro/>}></Route>
+            <Route exact path="/aboutus" element={<AboutUs/>}></Route>
+            <Route exact path="/contact" element={<Contact/>}></Route>
+            <Route exact path="/industria" element={<Industria/>}></Route>
+            <Route exact path="/iluminacion" element={<Iluminacion/>}></Route>
         </Routes>
     </Router>
     )

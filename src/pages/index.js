@@ -1,2 +1,5 @@
 export * from "./Home";
-export * from "./Otro";
+export * from "./AboutUs";
+export * from "./Contact";
+export * from "./Industria";
+export * from "./Iluminacion";
