@@ -1,11 +1,11 @@
 import { MainLeyouts } from "./layouts";
+import { MainRoutes } from "./routes/MainRoutes";
 
 function App() {
   return (
     <div className="App">
       <MainLeyouts>
-        hello from app inside mainleyout
-        bla bla
+        <MainRoutes/>
       </MainLeyouts>
     </div>
   );
