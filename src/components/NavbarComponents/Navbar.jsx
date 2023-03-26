@@ -10,9 +10,9 @@ export const Navbar = () => {
       <h1 className="text-orange-600 text-4xl font-bold">Luc</h1>
       <input type="text" className="w-50 sm:w-96 px-2" placeholder="busca productos..."></input>
       <ul className="hidden w-48 bg-slate-600 font-bold justify-between text-yellow-200 sm:flex">
-      <li><Link exact to={"/home"}>home</Link></li>
-      <li><Link exact to={"/aboutus"}>about us</Link></li>
-      <li><Link exact to={"/contact"}>contact</Link></li>
+      <li><Link to={"/"}>home</Link></li>
+      <li><Link to={"/aboutus"}>about us</Link></li>
+      <li><Link to={"/contact"}>contact</Link></li>
       </ul>
       <CartWidget></CartWidget>
     </div>

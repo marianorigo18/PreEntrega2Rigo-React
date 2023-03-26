@@ -10,7 +10,7 @@ export const MainRoutes = () => {
         <Navbar></Navbar>
         <BubbleCategories></BubbleCategories>
         <Routes>
-            <Route exact path="/home" element={<Home/>}></Route>
+            <Route exact path="/" element={<Home/>}></Route>
             <Route exact path="/aboutus" element={<AboutUs/>}></Route>
             <Route exact path="/contact" element={<Contact/>}></Route>
             <Route exact path="/industria" element={<Industria/>}></Route>
