@@ -2,7 +2,7 @@
     "categorias": [
         {
             "title": "iluminacion",
-            "img": "./data/assets/topics/iluminacion.jpg",
+            "img": "./assets/topics/iluminacion.jpg",
             "link": "./pages/iluminacion.html",
             "categorias": [
                 {
@@ -846,7 +846,7 @@
         },
         {
             "title": "industria",
-            "img": "./data/assets/topics/industria.jpg",
+            "img": "./assets/topics/industria.jpg",
             "link": "./pages/industria.html",
             "categorias": [
             {
@@ -895,7 +895,7 @@
         },
         {
             "title": "conductores",
-            "img": "./data/assets/topics/conductorestwo.jpg",
+            "img": "./assets/topics/conductorestwo.jpg",
             "link": "./pages/cables.html",
             "categorias": [
             {
@@ -956,7 +956,7 @@
         },
         {
             "title": "puntos y toma",
-            "img": "./data/assets/topics/conjuntos.jpg",
+            "img": "./assets/topics/conjuntos.jpg",
             "link": "./pages/armados.html",
             "categorias": [
                 {
@@ -1165,7 +1165,7 @@
         },
         {
             "title": "herramientas",
-            "img": "./data/assets/topics/herramientas.jpg",
+            "img": "./assets/topics/herramientas.jpg",
             "link": "./pages/herramientas.html",
             "categorias": [
             {
@@ -1447,7 +1447,7 @@
         },
         {
             "title": "terminales",
-            "img": "./data/assets/topics/terminales.jpg",
+            "img": "./assets/topics/terminales.jpg",
             "link": "./pages/terminales.html",
             "categorias": [
             {
@@ -1490,7 +1490,7 @@
         },
         {
             "title": "normalizados",
-            "img": "./data/assets/topics/normalizadosTwo.jpg",
+            "img": "./assets/topics/normalizadosTwo.jpg",
             "link": "./pages/normalizados.html",
             "categorias": [
             {
@@ -1641,7 +1641,7 @@
         },
         {
             "title": "medicion",
-            "img": "./data/assets/topics/instrumentos.jpg",
+            "img": "./assets/topics/instrumentos.jpg",
             "link": "./pages/testing.html",
             "categorias": [
             {
@@ -1684,7 +1684,7 @@
         },
         {
             "title": "aereo",
-            "img": "./data/assets/topics/aereo.jpg",
+            "img": "./assets/topics/aereo.jpg",
             "link": "./pages/aereo.html",
             "categorias": [
             {
@@ -1726,7 +1726,7 @@
         },
         {
             "title": "emergencia",
-            "img": "./data/assets/topics/emergencia.jpg",
+            "img": "./assets/topics/emergencia.jpg",
             "link": "./pages/emergencia.html",
             "categorias": [
             {
@@ -1788,7 +1788,7 @@
         },
         {
             "title": "morceteria",
-            "img": "./data/assets/topics/morceteria.jpg",
+            "img": "./assets/topics/morceteria.jpg",
             "link": "./pages/morceteria.html",
             "categorias": [
             {
