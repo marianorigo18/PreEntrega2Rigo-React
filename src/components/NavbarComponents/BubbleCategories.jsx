@@ -7,8 +7,6 @@ export const BubbleCategories = () => {
     <ul className="hidden w-64 bg-slate-600 font-bold justify-between text-yellow-200 sm:flex">
         <li><Link to={"/industria"}>industria</Link></li>
         <li><Link to={"/iluminacion"}>iluminacion</Link></li>
-        <li><Link to={"/products/1"}>products 1</Link></li>
-        <li><Link to={"/products/2"}>products 2</Link></li>
     </ul>
     </>
   )
